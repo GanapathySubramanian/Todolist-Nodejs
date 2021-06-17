@@ -18,7 +18,7 @@
 1. Download and install Node js and mongodb in your machine
 2. Clone or download the repository
 3. Extract all the files
-4. After Extracting the downloaded file name the folder as Todolist,open Terminal where the folder is placed on your system and use the command npm install to install all the modules that are used for the project .
+4. After Extracting the downloaded file name the folder as Todolist,open Terminal where the folder is placed on your system and use the command npm install or npm i to install all the modules that are used for the project .
 5. After installing all the module(express,ejs,nodemon,body-parser) then open a new terminal and run the mongod command to start the mongodb server and then open other terminal to run the mongo shell using the command mongo
 6. Then use the command node app.js or nodemon to run or start the server.
 7. Open your web browser and type 'localhost:3000'
